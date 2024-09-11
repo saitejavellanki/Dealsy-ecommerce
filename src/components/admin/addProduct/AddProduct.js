@@ -10,7 +10,11 @@ import Loader from "../../loader/Loader"
 import { useSelector } from "react-redux"
 import { selectProducts } from "../../../redux/slice/productSlice"
 
+
 //hi
+
+// pranav
+
 const categories = [
   {id: 1, name: "Laptop"},
   {id: 2, name: "Electronics"},
